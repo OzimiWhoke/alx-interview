@@ -18,9 +18,3 @@ def pascal_triangle(n):
         pascal.append(row)
 
     return pascal
-
-# Test the function with n = 5
-n = 5
-result = pascal_triangle(n)
-for row in result:
-    print(row)

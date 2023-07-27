@@ -1,2 +1,2 @@
 # alx-interview
-Interview
+Technical Interview
